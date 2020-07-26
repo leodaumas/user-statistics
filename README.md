@@ -31,10 +31,10 @@ From your command line, first clone:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/userStatistics
+$ git clone https://github.com/user-statistics
 
 # Go into the repository
-$ cd userStatistics
+$ cd user-statistics
 
 # Remove current origin repository
 $ git remote remove origin
