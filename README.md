@@ -50,6 +50,9 @@ $ npm install
 #Install packages
 $ npm i json-server
 
+#Add script below test in package.json
+"server1": "json-server --watch users.json --port 3001"
+
 # Start development server
 $ npm run server1
 ```
