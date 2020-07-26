@@ -1,11 +1,4 @@
-# Simple aplication ⚡️ User statistics
-
-## A simple aplication that uses json server as backend!
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3oFzmq6Kj4yXZUVHmE/giphy.gif" alt="Look up!" width="600px" />
-  <br>
-</h2>
+## A simple aplication of user statistics that uses json server as backend!
 
 ## Goals
 
